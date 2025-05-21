@@ -5,8 +5,6 @@
     "types": []
   },
   "include": [
-    "src/features/**/client/**/*",
-    "src/features/**/shared/**/*",
     "src/features/client-utils/**/*",
     "src/shared/**/*",
     "src/client/**/*",
